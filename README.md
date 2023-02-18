@@ -30,3 +30,5 @@ The next step is to set up a wallet using the Concordium Wallet for We, the exte
 
 Now you export keys, after that you will import your key into the concordium-client configuration
 ![Image 9](img-9.png)
+
+# Mainnet Address

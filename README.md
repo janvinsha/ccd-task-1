@@ -32,3 +32,4 @@ Now you export keys, after that you will import your key into the concordium-cli
 ![Image 9](img-9.png)
 
 # Mainnet Address
+3AhPwJ2XwMqm89s1VKpcSWWWZnHgtUJkCMAkXKdxhZCNd6cEWr
